@@ -1,6 +1,6 @@
 # bird-2026
 
-Web-sized copies of Ronghao Zhang's 2026 bird photos, served with GitHub Pages for
+Web-sized 2026 bird photos, served with GitHub Pages for
 the photography site at https://ronghao-zhang-gallery.github.io.
 
 This repo holds image files only. Titles, species, places and camera settings live in
