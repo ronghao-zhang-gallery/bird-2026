@@ -1,0 +1,29 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Originals never go in this repo (raws, masters, edit files)
+*.CR3
+*.cr3
+*.CR2
+*.cr2
+*.NEF
+*.nef
+*.ARW
+*.arw
+*.DNG
+*.dng
+*.tif
+*.tiff
+*.TIF
+*.TIFF
+*.psd
+*.xmp
+*.XMP
+
+# Full-size exports dropped here by mistake (web copies live only in large/ and thumb/)
+/*.jpg
+/*.jpeg
+/*.JPG
+/*.JPEG
+/*.webp
